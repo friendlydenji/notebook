@@ -1,0 +1,1 @@
+**The Strategy Pattern** defines a family of algorithms, encapsulates each one, and makes them interchangeable, **Strategy** let the algorithms vary independently from the client that use it.

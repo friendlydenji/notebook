@@ -1,0 +1,1 @@
+**The Abstract Factory** Pattern provides an interface for creating family of related or dependent objects without specify their concrete class.
