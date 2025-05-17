@@ -36,4 +36,7 @@ This part will be added later
 ### Stay tuned !
 This part will be added later
 
+<br> [<kbd> <br> FEEDBACK <br> </kbd>][FEEDBACK]<br>
+
 [HOME]: ../README.md
+[FEEDBACK]: https://github.com/friendlydenji/notebook/discussions

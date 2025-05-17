@@ -116,4 +116,7 @@ There are some keyworks to manage dynamic memory
 * **free**: dynamically de-allocate the memory. \
 **Syntax**: `free(ptr)`
 
+<br> [<kbd> <br> FEEDBACK <br> </kbd>][FEEDBACK]<br>
+
 [HOME]: ../README.md
+[FEEDBACK]: https://github.com/friendlydenji/notebook/discussions

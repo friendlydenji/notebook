@@ -106,4 +106,7 @@ In addition, there is another mode called Multiprocessor UART, maybe I will add 
 
 ## Bootloader
 
+<br> [<kbd> <br> FEEDBACK <br> </kbd>][FEEDBACK]<br>
+
 [HOME]: ../README.md
+[FEEDBACK]: https://github.com/friendlydenji/notebook/discussions

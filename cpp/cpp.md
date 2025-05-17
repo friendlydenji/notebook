@@ -23,4 +23,7 @@ There are just two keywords in C++
 Have you ever wonder why C++ have everything C have and more but C is widely used in embedded ? \
 Because C++  and their library is much larger than C and embedded applications are usually have limited memory, not all hardware can satisfy
 
+<br> [<kbd> <br> FEEDBACK <br> </kbd>][FEEDBACK]<br>
+
 [HOME]: ../README.md
+[FEEDBACK]: https://github.com/friendlydenji/notebook/discussions

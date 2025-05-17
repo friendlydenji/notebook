@@ -85,4 +85,7 @@ There are 3 *thread mapping model*
 
 ## Scheduling algorimth
 
+<br> [<kbd> <br> FEEDBACK <br> </kbd>][FEEDBACK]<br>
+
 [HOME]: ../README.md
+[FEEDBACK]: https://github.com/friendlydenji/notebook/discussions

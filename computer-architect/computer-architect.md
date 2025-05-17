@@ -40,4 +40,7 @@ There are also some additional memory types:
 
 Memory component speed ordered from fastest to slowest: register, cache, main memory, non-volatile memory, hard-disk drives, optical disk, magnetic tapes
 
+<br> [<kbd> <br> FEEDBACK <br> </kbd>][FEEDBACK]<br>
+
 [HOME]: ../README.md
+[FEEDBACK]: https://github.com/friendlydenji/notebook/discussions
