@@ -4,6 +4,7 @@ description: C++ basic
 ---
 
 <br> [<kbd> <br> HOME <br> </kbd>][HOME] <br>
+
 ## New Dynamic Memory Allocation
 There are just two keywords in C++
 * **new**: dynamic allocation. **Syntax**: `ptr = new data-type(default value)` for single allocation or `ptr = new data-type[size]` for array allocation

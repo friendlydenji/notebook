@@ -3,6 +3,8 @@ title: Operating System
 description: Operating system basic
 ---
 
+<br> [<kbd> <br> HOME <br> </kbd>][HOME] <br>
+
 # Table of contents
 - [1. OS Definition](#1-os-definition)
 - [2. OS Functions](#2-os-functions)
@@ -82,3 +84,5 @@ There are 3 *thread mapping model*
 **service time** is the time process need CPU in a CPU-I/O period, processes have large service time are CPU-bound processes
 
 ## Scheduling algorimth
+
+[HOME]: ../README.md

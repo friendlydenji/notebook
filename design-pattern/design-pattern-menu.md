@@ -1,3 +1,10 @@
+---
+title: Design Pattern
+description: Design Pattern basic
+---
+
+<br> [<kbd> <br> HOME <br> </kbd>][HOME] <br>
+
 Object-Oriented Design Principle
 -
 Before dive in Design Pattern we need to know about some [object-oriented design principles](object-oriented-design-principle.md).
@@ -35,3 +42,5 @@ Behavioral Design Pattern
 - [Template Method](behavioral/template-method.md)
 - [Visitor](behavioral/visitor.md)
 - [Null Object](behavioral/null-object.md)
+
+[HOME]: ../README.md

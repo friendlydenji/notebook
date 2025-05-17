@@ -3,6 +3,8 @@ title: Computer Architect
 description: Computer architect basic
 ---
 
+<br> [<kbd> <br> HOME <br> </kbd>][HOME] <br>
+
 # Table of contents
 - [Table of contents](#table-of-contents)
 - [1. Von Neumann & Harvard](#1-von-neumann--harvard)
@@ -37,3 +39,5 @@ There are also some additional memory types:
 * Disk
 
 Memory component speed ordered from fastest to slowest: register, cache, main memory, non-volatile memory, hard-disk drives, optical disk, magnetic tapes
+
+[HOME]: ../README.md

@@ -3,6 +3,8 @@ title: Micro-controller
 description: Micro-controller basic
 ---
 
+<br> [<kbd> <br> HOME <br> </kbd>][HOME] <br>
+
 # Table of contents
 - [Micro-processor & Micro-controller](#micro-processor--micro-controller)
 - [GPIO](#gpio)
@@ -104,4 +106,4 @@ In addition, there is another mode called Multiprocessor UART, maybe I will add 
 
 ## Bootloader
 
-
+[HOME]: ../README.md

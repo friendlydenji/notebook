@@ -3,6 +3,8 @@ title: Embeddded
 description: Embeddded basic
 ---
 
+<br> [<kbd> <br> HOME <br> </kbd>][HOME] <br>
+
 # Table of contents
 - [1. Digital & Analog](#1-digital--analog)
 - [2. Embedded Systems](#2-embedded-systems)
@@ -33,3 +35,5 @@ This part will be added later
 ## 5. Internet of Things
 ### Stay tuned !
 This part will be added later
+
+[HOME]: ../README.md

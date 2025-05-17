@@ -3,6 +3,8 @@ title: C programming language
 description: My C knowledge
 ---
 
+<br> [<kbd> <br> HOME <br> </kbd>][HOME] <br>
+
 # Table of contents
 - [Table of contents](#table-of-contents)
 - [1. C keywords](#1-c-keywords)
@@ -113,3 +115,5 @@ There are some keyworks to manage dynamic memory
 **Syntax**: `ptr = realloc(ptr, new byte-size)`
 * **free**: dynamically de-allocate the memory. \
 **Syntax**: `free(ptr)`
+
+[HOME]: ../README.md
