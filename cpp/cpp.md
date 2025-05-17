@@ -1,6 +1,6 @@
 ---
 title: C++
-description: Some C++ update to C
+description: C++ basic
 ---
 
 <br> [<kbd> <br> HOME <br> </kbd>][HOME] <br>

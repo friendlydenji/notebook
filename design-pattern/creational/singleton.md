@@ -1,0 +1,1 @@
+**The Singleton Pattern** assures a class has only on instance, and provides a global point of access to it.
