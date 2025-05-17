@@ -3,17 +3,21 @@ title: Computer Architect
 description: Computer architect basic
 ---
 
-# 2. Computer Architect
+# Table of contents
+- [Table of contents](#table-of-contents)
+- [1. Von Neumann & Harvard](#1-von-neumann--harvard)
+- [2. Little endian & Big endian](#2-little-endian--big-endian)
+- [3. Memory Architect](#3-memory-architect)
 
-## 2.1. Von Neumann & Harvard
+## 1. Von Neumann & Harvard
 **Von Neumann** is the computer architect that have intercommunity bus for program memory and data memory \
 **Harvard** is the opposite, so it have better performance
 
-## 2.2. Little endian & Big endian
+## 2. Little endian & Big endian
 **endian** is a storage mechanism so it is opposite to our thinking \
 **Little endian** is from LSB to MSB and **Big endian** is the opposite
 
-## 2.3. Memory Architect
+## 3. Memory Architect
 There are two memory types in computer: **volatile** and **non-volatile** \
 `volatile` with  representation is `RAM`, also called memory, loses contents when power is off, a temporary workspace for data because it is high-speed \
 Some *volatile memory*:

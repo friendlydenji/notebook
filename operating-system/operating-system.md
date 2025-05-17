@@ -2,12 +2,17 @@
 title: Operating System
 description: Operating system basic
 ---
-# 5. Operating System
 
-## 5.1. OS Definition
+# Table of contents
+- [1. OS Definition](#1-os-definition)
+- [2. OS Functions](#2-os-functions)
+- [3. OS Types](#3-os-types)
+- [4. OS Components](#4-os-components)
+
+## 1. OS Definition
 **Operating System** is software or it can be seem as the intermediate between user and hardware that runs on a computing device and manages the hardware and software components that make up a functional computing system 
 
-## 5.2. OS Functions
+## 2. OS Functions
 Hardware management \
 Provide interface for users \
 Application installation \
@@ -19,7 +24,7 @@ Resource management \
 Access control and protect system \
 Integrity maintenance, error control and recovery
 
-## 5.3. OS Types
+## 3. OS Types
 Base on processing:
 * Uniprogramming OS
 * Multiprogramming OS
@@ -28,7 +33,7 @@ Base on processing:
 * Clustered/distributed/loosely-coupled  OS
 * RTOS
 
-## 5.4. OS Components
+## 4. OS Components
 Process/thread management \
 Primary memory management \
 File management \
@@ -37,7 +42,7 @@ Secondary memory management \
 Protect system \
 Command line interpreter system 
 
-## 5.5. Process
+## 5. Process
 **Process** is the active *application* instant, *application* become *process* when *executable file* loaded into memory (called *process image*) \
 **Process layout** is as same as [Memory Layout In C Program](#13-memory-layout) \
 **Process initialization step**: allocate identifier, allocate memory for process load, initialize *Process Control Block* (PCB), setup necessary relation (e.g. arrange PCB to queue) \
